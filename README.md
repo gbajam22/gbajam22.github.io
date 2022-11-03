@@ -1,6 +1,6 @@
 <img src="jamlogo.png" style="height:250px">
 
-The **GBA Jam 2022** was an homebrew competition hosted by the [gbadev.net](https://gbadev.net) community to celebrate the Game Boy Advance development scene. Contestants had 3 months (from August 1st 2022 to November 1st 2022) to develop something new running on the GBA, using whatever tools they wanted.
+The **GBA Jam 2022** was a homebrew competition hosted by the [gbadev.net](https://gbadev.net) community to celebrate the Game Boy Advance development scene. Contestants had 3 months (from August 1st 2022 to November 1st 2022) to develop something new running on the GBA, using whatever tools they wanted.
 
 The competition was hosted at [itch.io/jam/gbajam22](https://itch.io/jam/gbajam22).
 
