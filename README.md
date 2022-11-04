@@ -148,24 +148,98 @@ by setsquare
 
 ### MineboyAdvance
 
+<img height="150px" src="https://gbajam22.github.io/entries/mineboyadvance/cover.png"/>&nbsp;<img height="150px" src="https://gbajam22.github.io/entries/mineboyadvance/kfI6IF.jpg"/>&nbsp;
+by sulsadood
+[Project Page](https://sulsadood.itch.io/mineboyadvance) |
+[ROM File](https://gbajam22.github.io/entries/mineboyadvance/MineBoyAdvance_jam.gba) |
+[Source](https://github.com/sulsadood/MineBoyAdvance) |
+[Archive](https://github.com/gbajam22/MineBoyAdvance)
+
 ### Minesweeper Battle
+
+<img height="150px" src="https://gbajam22.github.io/entries/minesweeper-battle/cover.png"/>&nbsp;<img height="150px" src="https://gbajam22.github.io/entries/minesweeper-battle/Y0IhJh.png"/>&nbsp;
+by Dewbone3
+[Project Page](https://dewbone3.itch.io/minesweeper-battle) |
+[ROM File](https://gbajam22.github.io/entries/minesweeper-battle/MineSweeperBattle_jam.gba) |
+[Source](https://github.com/djevvy/MineSweeper-Battle) |
+[Archive](https://github.com/gbajam22/MineSweeper-Battle)
 
 ### Notenogram
 
+<img height="150px" src="https://gbajam22.github.io/entries/notenogram/cover.png"/>&nbsp;<img height="150px" src="https://gbajam22.github.io/entries/notenogram/IE6esF.png"/>&nbsp;
+by kva64
+[Project Page](https://kva64.itch.io/notenogram) |
+[ROM File](https://gbajam22.github.io/entries/notenogram/notenogram_jam.gba) |
+[Source](https://notabug.org/lv10groove/notenogram) |
+[Archive](https://github.com/gbajam22/notenogram)
+
 ### Nuclear Love
+
+<img height="150px" src="https://gbajam22.github.io/entries/nuclear-love/cover.png"/>&nbsp;<img height="150px" src="https://gbajam22.github.io/entries/nuclear-love/9Ip9Zt.png"/>&nbsp;
+by Jono Shields
+[Project Page](https://foopod.itch.io/nuclear-love) |
+[ROM File](https://gbajam22.github.io/entries/nuclear-love/nuclear-love_jam.gba)
 
 ### Pathfinder Demo
 
+<img height="150px" src="https://gbajam22.github.io/entries/pathfinder-demo/cover.png"/>&nbsp;<img height="150px" src="https://gbajam22.github.io/entries/pathfinder-demo/LrLbZM.png"/>&nbsp;
+by pyroceper
+[Project Page](https://pyroceper.itch.io/pathfinder-demo) |
+[ROM File](https://gbajam22.github.io/entries/pathfinder-demo/PATHFINDINGDEMO_jam.gba) |
+[Source](https://github.com/pyroceper/rock_paper_shotgun_tactics) |
+[Archive](https://github.com/gbajam22/rock_paper_shotgun_tactics)
+
 ### Pocket Paint
+
+<img height="150px" src="https://gbajam22.github.io/entries/pocket-paint-gba/cover.png"/>&nbsp;<img height="150px" src="https://gbajam22.github.io/entries/pocket-paint-gba/zp4lHo.png"/>&nbsp;
+by jroatch
+[Project Page](https://jroatch.itch.io/pocket-paint-gba) |
+[ROM File](https://gbajam22.github.io/entries/pocket-paint-gba/pocket-paint-gbajam2022.gba) |
+[Source](https://jroatch.itch.io/pocket-paint-gba) |
+[Archive](https://github.com/gbajam22/pocket-paint_jam-src)
 
 ### Ravenia
 
+<img height="150px" src="https://gbajam22.github.io/entries/ravenia/cover.png"/>&nbsp;<img height="150px" src="https://gbajam22.github.io/entries/ravenia/eXIXnX.png"/>&nbsp;
+by allalonegamez
+[Project Page](https://allalonegamez.itch.io/ravenia) |
+[ROM File](https://gbajam22.github.io/entries/ravenia/pocket-paint-gbajam2022.gba)
+
 ### Stealthy Stella
+
+<img height="150px" src="https://gbajam22.github.io/entries/stealthy-stella/cover.png"/>&nbsp;
+by Stormplay Games
+[Project Page](https://stormplay.itch.io/stealthy-stella) |
+[ROM File](https://gbajam22.github.io/entries/stealthy-stella/beatemup_jam.gba) |
 
 ### The Axe
 
+<img height="150px" src="https://gbajam22.github.io/entries/the-axe/cover.png"/>&nbsp;<img height="150px" src="https://gbajam22.github.io/entries/the-axe/VRoYXt.png"/>&nbsp;
+by Maximilian II
+[Project Page](https://maximilian-ii.itch.io/the-axe) |
+[ROM File](https://gbajam22.github.io/entries/the-axe/theAxe_jam.gba) |
+[Source](https://github.com/maximilian8181/The-Axe-GBA) |
+[Archive](https://github.com/gbajam22/The-Axe-GBA)
+
 ### The Enchanted Place
+
+<img height="150px" src="https://gbajam22.github.io/entries/the-enchanted-place/cover.png"/>&nbsp;
+VideoGameStoryTime
+[Project Page](https://videogamestorytime.itch.io/the-enchanted-place) |
+[ROM File](https://gbajam22.github.io/entries/the-enchanted-place/Enchanted_Jam.gba)
 
 ### Villagers Ambition
 
+<img height="150px" src="https://gbajam22.github.io/entries/villagers-ambition/cover.png"/>&nbsp;
+by AtsushiHdez
+[Project Page](https://atsushihdez.itch.io/villagers-ambition) |
+[ROM File](https://gbajam22.github.io/entries/villagers-ambition/VillagersAmbition_jam.gba)
+
 ### Yalaxy01-Yearlysis
+
+<img height="150px" src="https://gbajam22.github.io/entries/yalaxy01-yearlysis/cover.png"/>&nbsp;
+by MysteryStrawberry
+[Project Page](https://mysterystrawberry.itch.io/yalaxy01-yearlysis) |
+[ROM File](https://gbajam22.github.io/entries/yalaxy01-yearlysis/YALAXY01_jam.gba) |
+[Source](https://github.com/HusYada/YALAXY-01) |
+[Archive](https://github.com/gbajam22/YALAXY-01)
