@@ -27,8 +27,7 @@ The winners, alongside full leaderboards will be announced [here](https://gbajam
 by Pyro_Pyro, Music by Nikku4211  
 [Project Page](https://pyro-pyro.itch.io/a-rushed-hack-job) |
 [ROM File](https://gbajam22.github.io/entries/a-rushed-hack-job/ARushedHackJob_jam.gba) |
-[Source](https://git.sr.ht/~pyropyro/A-Rushed-Hack-Job) |
-[Archive](https://github.com/gbajam22/A-Rushed-Hack-Job)
+[Source](https://git.sr.ht/~pyropyro/A-Rushed-Hack-Job)
 
 ### Attack of Voxelburg
 
@@ -36,8 +35,7 @@ by Pyro_Pyro, Music by Nikku4211
 by nuclear  
 [Project Page](https://nuclear.itch.io/attack-on-voxelburg) |
 [ROM File](https://gbajam22.github.io/entries/attack-on-voxelburg/voxelburg_jam.gba) |
-[Source](https://github.com/MutantStargoat/voxelburg) |
-[Archive](https://github.com/gbajam22/voxelburg)
+[Source](https://github.com/MutantStargoat/voxelburg)
 
 ### Bugtris
 
@@ -45,8 +43,7 @@ by nuclear
 by NotImplementedLife  
 [Project Page](https://notimplementedlife.itch.io/bugtris) |
 [ROM File](https://gbajam22.github.io/entries/bugtris/Bugtris_jam.gba) |
-[Source](https://github.com/NotImplementedLife/Bugtris) |
-[Archive](https://github.com/gbajam22/Bugtris)
+[Source](https://github.com/NotImplementedLife/Bugtris)
 
 ### Chocolate Hunter Runa
 
@@ -54,8 +51,7 @@ by NotImplementedLife
 by Lsh0426  
 [Project Page](https://lsh0426.itch.io/chocolate-hunter-runa) |
 [ROM File](https://gbajam22.github.io/entries/chocolate-hunter-runa/chocolate_hunter_runa_jam.gba) |
-[Source](https://github.com/Runa457/chocolate_hunter_runa) |
-[Archive](https://github.com/gbajam22/chocolate_hunter_runa)
+[Source](https://github.com/Runa457/chocolate_hunter_runa)
 
 ### Coin Fall
 
@@ -70,8 +66,7 @@ by 3DSage
 by vayan  
 [Project Page](https://xvayan.itch.io/collie-defence) |
 [ROM File](https://gbajam22.github.io/entries/collie-defence/collie-defence_jam.gba) |
-[Source](https://github.com/vayan/collie-defence) |
-[Archive](https://github.com/gbajam22/collie-defence)
+[Source](https://github.com/vayan/collie-defence)
 
 ### Gerbil Space Program
 
@@ -79,8 +74,7 @@ by vayan
 by Origamiscienceguy, n67094, Nikku4211  
 [Project Page](https://n67094.itch.io/gerbil-space-program) |
 [ROM File](https://gbajam22.github.io/entries/gerbil-space-program/GSP_jam.gba) |
-[Source](https://github.com/n67094/GSP) |
-[Archive](https://github.com/gbajam22/GSP)
+[Source](https://github.com/n67094/GSP)
 
 ### Glacia Dungeon
 
@@ -88,8 +82,7 @@ by Origamiscienceguy, n67094, Nikku4211
 by NotImplementedLife  
 [Project Page](https://notimplementedlife.itch.io/glaciadungeon) |
 [ROM File](https://gbajam22.github.io/entries/glaciadungeon/GlaciaDungeon_jam.gba) |
-[Source](https://github.com/NotImplementedLife/GlaciaDungeon) |
-[Archive](https://github.com/gbajam22/GlaciaDungeon)
+[Source](https://github.com/NotImplementedLife/GlaciaDungeon)
 
 ### gnoq
 
@@ -111,8 +104,7 @@ by Tengukaze Studio
 by evanbowman  
 [Project Page](https://evanbowman.itch.io/hero-core-gba-port) |
 [ROM File](https://gbajam22.github.io/entries/hero-core-gba-port/HEROCORE_jam.gba) |
-[Source](https://github.com/evanbowman/Hero-port-gba) |
-[Archive](https://github.com/gbajam22/Hero-port-gba)
+[Source](https://github.com/evanbowman/Hero-port-gba)
 
 ### Hexes
 
@@ -120,8 +112,7 @@ by evanbowman
 by Dania Rifki  
 [Project Page](https://kaleidosium.itch.io/hexes) |
 [ROM File](https://gbajam22.github.io/entries/hexes/HEXES_jam.gba) |
-[Source](https://github.com/EigenlightArts/HEXES) |
-[Archive](https://github.com/gbajam22/HEXES)
+[Source](https://github.com/EigenlightArts/HEXES)
 
 ### Jump Kid
 
@@ -143,8 +134,7 @@ by brave_orakio
 by setsquare  
 [Project Page](https://setsquare.itch.io/lane) |
 [ROM File](https://gbajam22.github.io/entries/lane/Lane_jam.gba) |
-[Source](https://github.com/corwinkuiper/lane) |
-[Archive](https://github.com/gbajam22/lane)
+[Source](https://github.com/corwinkuiper/lane)
 
 ### MineboyAdvance
 
@@ -152,8 +142,7 @@ by setsquare
 by sulsadood  
 [Project Page](https://sulsadood.itch.io/mineboyadvance) |
 [ROM File](https://gbajam22.github.io/entries/mineboyadvance/MineBoyAdvance_jam.gba) |
-[Source](https://github.com/sulsadood/MineBoyAdvance) |
-[Archive](https://github.com/gbajam22/MineBoyAdvance)
+[Source](https://github.com/sulsadood/MineBoyAdvance)
 
 ### Minesweeper Battle
 
@@ -161,8 +150,7 @@ by sulsadood
 by Dewbone3  
 [Project Page](https://dewbone3.itch.io/minesweeper-battle) |
 [ROM File](https://gbajam22.github.io/entries/minesweeper-battle/MineSweeperBattle_jam.gba) |
-[Source](https://github.com/djevvy/MineSweeper-Battle) |
-[Archive](https://github.com/gbajam22/MineSweeper-Battle)
+[Source](https://github.com/djevvy/MineSweeper-Battle)
 
 ### Notenogram
 
@@ -170,8 +158,7 @@ by Dewbone3
 by kva64  
 [Project Page](https://kva64.itch.io/notenogram) |
 [ROM File](https://gbajam22.github.io/entries/notenogram/notenogram_jam.gba) |
-[Source](https://notabug.org/lv10groove/notenogram) |
-[Archive](https://github.com/gbajam22/notenogram)
+[Source](https://notabug.org/lv10groove/notenogram)
 
 ### Nuclear Love
 
@@ -186,8 +173,7 @@ by Jono Shields
 by pyroceper  
 [Project Page](https://pyroceper.itch.io/pathfinder-demo) |
 [ROM File](https://gbajam22.github.io/entries/pathfinder-demo/PATHFINDINGDEMO_jam.gba) |
-[Source](https://github.com/pyroceper/rock_paper_shotgun_tactics) |
-[Archive](https://github.com/gbajam22/rock_paper_shotgun_tactics)
+[Source](https://github.com/pyroceper/rock_paper_shotgun_tactics)
 
 ### Pocket Paint
 
@@ -195,8 +181,7 @@ by pyroceper
 by jroatch  
 [Project Page](https://jroatch.itch.io/pocket-paint-gba) |
 [ROM File](https://gbajam22.github.io/entries/pocket-paint-gba/pocket-paint-gbajam2022.gba) |
-[Source](https://jroatch.itch.io/pocket-paint-gba) |
-[Archive](https://github.com/gbajam22/pocket-paint_jam-src)
+[Source](https://jroatch.itch.io/pocket-paint-gba)
 
 ### Ravenia
 
@@ -218,8 +203,7 @@ by Stormplay Games
 by Maximilian II  
 [Project Page](https://maximilian-ii.itch.io/the-axe) |
 [ROM File](https://gbajam22.github.io/entries/the-axe/theAxe_jam.gba) |
-[Source](https://github.com/maximilian8181/The-Axe-GBA) |
-[Archive](https://github.com/gbajam22/The-Axe-GBA)
+[Source](https://github.com/maximilian8181/The-Axe-GBA)
 
 ### The Enchanted Place
 
@@ -241,5 +225,4 @@ by AtsushiHdez
 by MysteryStrawberry  
 [Project Page](https://mysterystrawberry.itch.io/yalaxy01-yearlysis) |
 [ROM File](https://gbajam22.github.io/entries/yalaxy01-yearlysis/YALAXY01_jam.gba) |
-[Source](https://github.com/HusYada/YALAXY-01) |
-[Archive](https://github.com/gbajam22/YALAXY-01)
+[Source](https://github.com/HusYada/YALAXY-01)
