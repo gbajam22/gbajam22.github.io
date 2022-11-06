@@ -8,7 +8,20 @@ To learn more about GBA development, visit [gbadev.net](https://gbadev.net) and 
 
 This page collects every entry submitted, providing the final released ROMs and the sources.
 
+## Downloads
+
+- Full releases compilation (includes ROMs, screenshots, sources, ..): [gbajam22.zip](https://github.com/gbajam22/gbajam22.github.io/archive/refs/tags/final.zip)
+
 ## Acknowledgements
+
+### Organisers and Judges
+
+pmprog, GValiente, exelotl, avivace, skylyrac, Jono Shields, klomp 
+
+### Donators
+
+gbdev community, Pocket Pulp, RST Games, Incube8 Games, GValiente, Inciaradible, WolfCrow, ahmadmanga, Magic Bottle, Anonymous, pmprog, copyrat90, Quentin-dev, LostImmortal, tempest, JoaoBaptMG, akouzoukoss, lugbucket, lifning, AtsushiHdez, Sorcier, Juxxec, wackou , 3DSage
+
 
 ### Sponsors
 
