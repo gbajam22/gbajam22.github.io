@@ -127,13 +127,6 @@ by Dania Rifki
 [ROM File](https://gbajam22.github.io/entries/hexes/HEXES_jam.gba) |
 [Source](https://github.com/EigenlightArts/HEXES)
 
-### Jump Kid
-
-<img height="150px" src="https://gbajam22.github.io/entries/jump-kid/cover.png"/>&nbsp;   <img height="150px" src="https://gbajam22.github.io/entries/jump-kid/0uaxps.png"/>&nbsp;   
-by allalonegamez  
-[Project Page](https://allalonegamez.itch.io/jump-kid) |
-[ROM File](https://gbajam22.github.io/entries/jump-kid/Jump_kid_jam.gba)
-
 ### Kankandara No Mori - Forest of the Kankandara
 
 <img height="150px" src="https://gbajam22.github.io/entries/kankandara-no-moriforest-of-the-kankandara/cover.png"/>&nbsp;   <img height="150px" src="https://gbajam22.github.io/entries/kankandara-no-moriforest-of-the-kankandara/22Bhdph.png"/>&nbsp;   
